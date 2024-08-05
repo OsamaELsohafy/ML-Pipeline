@@ -1,2 +1,2 @@
 # ML-Pipeline
-A comprehensive machine learning pipeline for predicting airfoil noise levels. This project involves data cleaning, model building, evaluation, and persistence using a modified version of the NASA Airfoil Self Noise dataset.
+This project is a comprehensive machine learning pipeline designed to predict airfoil noise levels. As a data engineer at an aeronautics consulting company, your role involves building robust ETL processes and ML pipelines to assist data scientists in their work. This project utilizes a modified version of the NASA Airfoil Self Noise dataset to create a predictive model for sound levels based on various features of the airfoil.
